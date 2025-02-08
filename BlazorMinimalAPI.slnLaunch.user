@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "MinimalApiBackend\\MinimalApiBackend.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "BlazorFrontEnd\\BlazorFrontEnd.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
